@@ -22,3 +22,17 @@ div p {
     font-size: 1.5em;
     margin: 5%;
 }
+
+footer {
+    text-align: center;
+    color: darkgrey;
+}
+
+footer a {
+    text-decoration: none;
+    color: darkgrey;
+}
+
+footer a:hover {
+    color: black;
+}
