@@ -9,6 +9,13 @@ header img {
     max-width: 30%;
 }
 
+header p {
+    font-size: 2em;
+    margin: auto;
+    max-width: 50%;
+    font-family: abel, sans-serif;
+}
+
 div {
     display: flex;
     justify-content: space-around;
