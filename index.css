@@ -1,3 +1,7 @@
+a {
+    text-decoration: none;
+}
+
 header {
     display: block;
     margin: auto;
@@ -30,15 +34,15 @@ div p {
     margin: 5%;
 }
 
+div p a:hover {
+    color: darkgrey;
+}
+
 footer {
     text-align: center;
     color: darkgrey;
 }
 
-footer a {
-    text-decoration: none;
-    color: darkgrey;
-}
 
 footer a:hover {
     color: black;
