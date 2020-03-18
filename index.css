@@ -14,35 +14,27 @@ header img {
 }
 
 header p {
-    font-size: 2em;
+    font-size: 1.5em;
     margin: auto;
     max-width: 50%;
     font-family: abel, sans-serif;
 }
 
-.guitar {
-    display: flex;
-    justify-content: space-around;
-    align-items: center;
-    background-color: black;
-}
-
-.guitar img {
-    max-width: 30%;
-}
-
 div {
     display: flex;
     justify-content: space-around;
-    max-width: 80%;
+    max-width: 90%;
     align-items: center;
     margin: auto;
     font-family: abel, sans-serif;
 }
 
+div img {
+    max-width: 80%;
+}
+
 div p {
     font-size: 1.5em;
-    margin: 5%;
 }
 
 div p a:hover {
