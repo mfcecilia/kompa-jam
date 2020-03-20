@@ -43,6 +43,11 @@ div p a:hover {
     color: darkgrey;
 }
 
+#reverb-tile {
+    display: flex;
+    justify-content: center;
+}
+
 footer {
     text-align: center;
     color: darkgrey;
