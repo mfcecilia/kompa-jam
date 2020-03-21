@@ -1,6 +1,6 @@
 h1 {
     text-align: center;
-    font-family: abel, sans-serif;
+    font-family: aclonica, sans-serif;
 }
 
 #reverb-tile {
@@ -28,7 +28,7 @@ footer {
     border: 1px solid #ddd;
     border-radius: 0.25em;
     box-shadow: 2px 2px 1px #f9f9f9;
-    width: 200px;
+    width: 250px;
     float: left;
     margin-right: 1em;
     margin-bottom: 1em;
@@ -43,11 +43,11 @@ footer {
   .reverb-embedded-listing-info {
     border-top: 1px solid #ddd;
     padding: 1em;
-    height: 5em;
+    height: 5.1em;
   }
   .reverb-embedded-listing-title {
     display: block;
-    max-height: 38px;
+    max-height: 45px;
     color: #6f6f6f;
     font-size: 1.25rem;
     font-weight: bold;
