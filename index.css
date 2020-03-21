@@ -8,6 +8,8 @@ header {
     max-width: 100%;
     text-align: center;
     position: fixed;
+    background-color: white;
+    top: 0;
 }
 
 header img {
@@ -18,13 +20,25 @@ header img {
 header p {
     font-size: 1.5em;
     margin: auto;
-    max-width: 50%;
+    max-width: 90%;
     font-family: abel, sans-serif;
+}
+
+header div {
+    display: flex;
+    flex-flow: column;
+    max-width: 100%;
 }
 
 .menu {
     display: flex;
-    flex-flow: column;
+    flex-flow: row;
+    width: 70%;
+}
+
+.menu a {
+    margin: 10%;
+    max-width: 100%;
 }
 
 div {
