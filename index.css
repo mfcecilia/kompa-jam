@@ -68,10 +68,25 @@ div p a:hover {
     color: darkgrey;
 }
 
+.container {
+    display: flex;
+    flex-flow: column;
+    padding-top: 50%;
+}
+
 #reverb-tile {
     display: flex;
     justify-content: center;
 }
+
+
+.slideshow img {
+  position: absolute;
+  transition: opacity .5s ease-in;
+    max-width: 30%;
+}
+
+img + img { opacity: 0; }
 
 footer {
     text-align: center;
