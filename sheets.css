@@ -1,8 +1,19 @@
 .search {
-    max-width: 70%;
-    background-color: darkgrey;
+    max-width: 80%;
     text-align: center;
     margin: auto;
+    display: flex;
+    justify-content: space-around;
+    border: 30% ghostwhite;
+    background-color: ghostwhite;
+    padding: 1%;
+    font-family: aclonica, sans-serif;
+}
+
+.search div {
+    font-size: 2em;
+    padding: 1%;
+    cursor: pointer;
 }
 
 h1 {
