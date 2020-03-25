@@ -12,8 +12,8 @@
 
 .search div {
     font-size: 2em;
-    padding: 1%;
     cursor: pointer;
+    color: lightsteelblue;
 }
 
 h1 {
