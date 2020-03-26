@@ -6,7 +6,7 @@ function copyrightYear() {
 copyrightYear();
 
 var current = 0,
-    slides = document.getElementsByTagName("img");
+    slides = document.getElementsByClassName("slideshow").getElementsByTagName("img");
 
 setInterval(function() {
   for (var i = 0; i < slides.length; i++) {
