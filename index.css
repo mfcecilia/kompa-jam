@@ -13,15 +13,15 @@ header {
 }
 
 header img {
-    max-width: 20%;
+    max-width: 10%;
     margin: auto;
 }
 
-header p {
-    font-size: 1.5em;
+header div p {
     margin: auto;
     max-width: 90%;
     font-family: aclonica, sans-serif;
+    font-size: 1.1em;
 }
 
 header div {
@@ -34,15 +34,7 @@ header div {
     display: flex;
     flex-flow: row;
     width: 70%;
-}
-
-.menu a {
-    margin: 10%;
-    max-width: 100%;
-}
-
-.menu h1 {
-    font-size: 1.2em;
+    flex-wrap: wrap;
 }
 
 div {

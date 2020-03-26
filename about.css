@@ -1,0 +1,10 @@
+body {
+    font-family: aclonica, sans-serif;
+    text-align: center;
+}
+
+footer {
+    bottom: 0;
+    width: 100%;
+    position: absolute;
+}
