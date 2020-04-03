@@ -1,2 +1,17 @@
+To Do:
+
 positioning of footer on shop.html
 
+return home button on each page
+
+positioning of slideshow and navbar on home page
+
+
+----------
+
+
+Questions:
+
+what to put on contact page -- form? email? socials? wiki?
+
+what to put on about page -- form? email? socials? wiki?
