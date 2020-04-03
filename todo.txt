@@ -1,0 +1,2 @@
+positioning of footer on shop.html
+
