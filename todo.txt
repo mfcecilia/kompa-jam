@@ -2,7 +2,7 @@ To Do:
 
 positioning of footer on shop.html
 
-return home button on each page
+return home button on each page -- kompa jam logo
 
 positioning of slideshow and navbar on home page
 
