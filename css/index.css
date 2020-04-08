@@ -20,17 +20,20 @@ header img {
 header div p {
     margin: auto;
     max-width: 90%;
-    font-family: aclonica, sans-serif;
-    font-size: 1.1em;
+    font-size: 1.3em;
 }
+
 
 header div {
     display: flex;
     flex-flow: column;
     max-width: 100%;
+    font-family: m-1m, sans-serif;
+
 }
 
 .menu {
+    font-family: aclonica, sans-serif;
     display: flex;
     flex-flow: row;
     width: 70%;
@@ -43,7 +46,6 @@ div {
     max-width: 90%;
     align-items: center;
     margin: auto;
-    font-family: aclonica, sans-serif;
 }
 
 div img {
@@ -61,9 +63,10 @@ div p a:hover {
 }
 
 .container {
+    font-family: m-1m, sans-serif;
     display: flex;
     flex-flow: column;
-    padding-top: 50%;
+    padding-top: 20%;
 }
 
 #reverb-tile {
@@ -71,14 +74,6 @@ div p a:hover {
     justify-content: center;
 }
 
-
-.slideshow img {
-  position: absolute;
-  transition: opacity .5s ease-in;
-    max-width: 30%;
-}
-
-img + img { opacity: 0; }
 
 footer {
     text-align: center;
